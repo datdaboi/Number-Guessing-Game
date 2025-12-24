@@ -16,7 +16,7 @@ Project for https://roadmap.sh/projects/number-guessing-game
   - Medium: 5 guesses
   - Hard: 3 guesses
 - Option to quit anytime by typing `quit`, `q`, `x`, or `exit`.
-- Hints provided in Easy mode (too high / too low).
+- Hints provided in Easy and Medium modes (too high / too low).
 
 ## How to Run
 Clone the repository and run the script with Python 3:
